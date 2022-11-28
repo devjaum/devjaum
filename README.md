@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou fazendo projetos voltados à inteligência artificial [Rede-neural](https://github.com/devjaum/Rede-neural)
 
-- 🌱 Atualmente estou focando os estudos em React-js **React-js**
+- 🌱 Atualmente estou focando os estudos em [React-js](https://pt-br.reactjs.org/)
 
 - 👨‍💻 Meus projetos [https://github.com/devjaum?tab=repositories](https://github.com/devjaum?tab=repositories)
 
