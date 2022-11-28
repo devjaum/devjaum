@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo João Carlos</h1>
-<h3 align="center">Atualmente estou desenvolvendo mais em front-end.</h3>
+<h3 align="center">Atualmente estou desenvolvendo em front-end.</h3>
 
 - 🔭 Atualmente estou fazendo projetos voltados à inteligência artificial [Rede-neural](https://github.com/devjaum/Rede-neural)
 
